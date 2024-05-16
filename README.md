@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a versatile Computer Science Engineer passionate about all aspects of IT projects, from software development to embedded systems and beyond. I thrive on exploring diverse technology domains and tackling challenging projects.
+**Hello! I'm a versatile Computer Science Engineer passionate about all aspects of IT projects, from software development to embedded systems and beyond. I thrive on exploring diverse technology domains and tackling challenging projects.**
 
 
 ## 🌐 Socials:
