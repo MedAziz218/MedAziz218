@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a Computer Science Engineering student with a passion for embedded systems. <br>I have worked with various microcontrollers, including Arduino, ESP32, Raspberry Pi Pico, and STM32, across multiple projects.<br> I enjoy merging different domains to create innovative and practical solutions to real-world problems.</p>
+<p align="left">I am a Computer Science Engineering student with a passion for embedded systems. <br>I have worked with various microcontrollers, including <b>Arduino</b>, <b>ESP32</b>, <b>Raspberry Pi Pico</b>, and <b>STM32</b>, across multiple projects.<br> I enjoy merging different domains to create innovative and practical solutions to real-world problems.</p>
 
 ###
 
