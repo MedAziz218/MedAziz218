@@ -40,6 +40,25 @@
 
 ###
 
+<h2 align="left">I work with</h2>
+
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+<img width="12" />
+  <img src="https://cdn-bdkok.nitrocdn.com/zASfOZhMHRaGYpKaSOphFIhUcxxDXZOx/assets/images/optimized/rev-c608007/www.tshirtgeek.com.br/wp-content/uploads/2021/09/ELE013-600x600.jpg" height="40" alt="ESP32 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi Pico logo" />
+<img width="12" />
+<img src="https://wiki.st.com/stm32mpu/nsfr_img_auth.php/archive/c/c5/20211105095744%21ST_logo.png" height="40" alt="STM32 logo" />
+<img width="12" />
+
+
+</div>
+
+###
+
 <h2 align="left"></h2>
 
 ###
