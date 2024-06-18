@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a Computer Science Engineer student with a passion for embedded systems. <br>I have worked with various microcontrollers, including <b>Arduino</b>, <b>ESP32</b>, <b>Raspberry Pi Pico</b>, and <b>STM32</b>, across multiple projects.<br> I enjoy merging different domains to create innovative and practical solutions to real-world problems.</p>
+<p align="left">My name is Med Aziz, and I am a problem solver with a passion for continuous learning. I am deeply enthusiastic about exploring new technologies and have a profound interest in computer science. My fascination spans across various domains within the field, with a particular focus on the Internet of Things (IoT) and embedded systems. I strive to integrate my diverse knowledge from different areas to create innovative solutions that harness the capabilities of embedded systems and microcontrollers.</p>
 
 ###
 
