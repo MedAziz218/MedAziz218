@@ -1,9 +1,19 @@
 <h1 align="left">Hey 👋, This is Aziz</h1>
+<div align="right">
+  <a href="https://www.linkedin.com/in/mohamed-aziz-lahdheri-09489a263/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mohamedazizl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="facebook logo"  />
+  </a>
+  <a href="mailto:mohamedaziz.lahdheri@ensi-uma.tn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="21" alt="gmail logo"  />
+  </a>
+</div>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Cybersecurity+Enthusiast+;Embedded+Software+Engineer;Full-stack+Web+Developer;Always+Learning" alt="Typing SVG" /></a>
 </p>
 <hr/>
-
 
 ###
 
