@@ -73,8 +73,8 @@
     <a href="#"><img alt="Arduino IDE" src="https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="STM32CubeIDE" src="https://img.shields.io/badge/-STM32CubeIDE-03234B?logo=STMicroelectronics&logoColor=white"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=white"></a>
